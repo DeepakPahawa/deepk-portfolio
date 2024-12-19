@@ -80,6 +80,16 @@
           "label": "PyTorch",
           "imageName": "/pytorch.png"
         }
+      ],
+      "frontend": [
+        {
+          "label": "Chakra UI",
+          "imageName": "/chakraui.png"
+        },
+        {
+          "label": "Material-UI",
+          "imageName": "/materialui.png"
+        }
       ]
     }
   },
