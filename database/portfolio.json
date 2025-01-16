@@ -21,12 +21,7 @@
   "skillsInfo": {
     "displayName": "",
     "skills": {
-      "cloud": [
-        {
-          "label": "DigitalOcean",
-          "imageName": "/digitalocean.png"
-        }
-      ],
+      "cloud": [],
       "Frontend": [
         {
           "label": "ReactJS",
@@ -61,16 +56,7 @@
           "imageName": "/mongodb.png"
         }
       ],
-      "mba_tools": [
-        {
-          "label": "SPSS",
-          "imageName": "/spss.png"
-        },
-        {
-          "label": "MATLAB",
-          "imageName": "/matlab.png"
-        }
-      ],
+      "mba_tools": [],
       "AI/ML": [
         {
           "label": "TensorFlow",
@@ -83,28 +69,23 @@
       ],
       "frontend": [
         {
-          "label": "Chakra UI",
-          "imageName": "/chakraui.png"
+          "label": "ReactJS",
+          "imageName": "/reactjs.png"
         },
         {
-          "label": "Material-UI",
-          "imageName": "/materialui.png"
+          "label": "NextJS",
+          "imageName": "/nextjs.jpg"
+        },
+        {
+          "label": "Tailwind",
+          "imageName": "/tailwind.png"
+        },
+        {
+          "label": "VueJS",
+          "imageName": "/vuejs.png"
         }
       ],
-      "backend": [
-        {
-          "label": "NodeJS",
-          "imageName": "/nodejs.webp"
-        },
-        {
-          "label": "ExpressJS",
-          "imageName": "/expressjs.png"
-        },
-        {
-          "label": "Django",
-          "imageName": "/django.png"
-        }
-      ]
+      "backend": []
     }
   },
   "projectsInfo": {
